@@ -1,0 +1,8 @@
+# 构建产物通过 Releases 分发，不提交进 git
+*.exe
+*.msi
+*.zip
+
+# 系统文件
+Thumbs.db
+.DS_Store
